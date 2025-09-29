@@ -1,1 +1,1 @@
-console.log(num1 + num2 + name + lastName, type(num1 + num2 + name + lastName))
+milliseconds
