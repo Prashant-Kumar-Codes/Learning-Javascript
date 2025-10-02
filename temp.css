@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;            /* make body full height */
+    background-color: bisque;
+}
+
+#h1id{
+    color: red;
+    padding: 1%;
+    margin: 1%;
+}
+
+#h4id{
+    color: blue;
+    padding: 1%;
+    margin: 1%;
+}
+
+#btnid{
+    background-color: black;
+    color: rgb(211, 211, 211);
+    padding: 1%;
+    margin: 1%;
+    border-radius: 4% ;
+}

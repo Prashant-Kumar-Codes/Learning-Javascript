@@ -1,1 +1,2 @@
-milliseconds
+
+    return a**b
