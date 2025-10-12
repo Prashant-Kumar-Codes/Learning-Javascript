@@ -130,4 +130,5 @@ console.dir('This is using console.dir()\t',h1Heading.innerText)
 
 h1Heading.innerText += ', Welcoming you to my Webpage'
 
-
+//-------------------------- :: code :: --------------------------
+document.getElementsByName()

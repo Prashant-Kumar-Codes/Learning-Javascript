@@ -6,24 +6,24 @@
 
 body {
     height: 100vh;            /* make body full height */
-    background-color: bisque;
+    background-color: rgb(87, 51, 7);
 }
 
 #h1id{
-    color: red;
+    color: rgb(204, 0, 0);
     padding: 1%;
     margin: 1%;
 }
 
 #h4id{
-    color: blue;
+    color: rgb(0, 0, 195);
     padding: 1%;
     margin: 1%;
 }
 
 #btnid{
-    background-color: black;
-    color: rgb(211, 211, 211);
+    background-color: #100000;
+    color: rgb(175, 37, 37);
     padding: 1%;
     margin: 1%;
     border-radius: 4% ;
